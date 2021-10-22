@@ -1,0 +1,13 @@
+-- INSERT INTO movies (movie_name)
+-- VALUES ("The Wizard of Oz"),
+--     ("Halloween"),
+--     ("Candyman"),
+--     ("Tommy Boy"),
+--     ("Deadpool");
+
+-- INSERT INTO reviews (movie_id, review)
+-- VALUES (1, "The Wizard of Oz - thumbs up"),
+--     (2, "Halloween - thumbs eh"),
+--     (3, "Candyman - thumbs down"),
+--     (4, "Tommy Boy - thumbs up"),
+--     (5, "Deadpool - thumbs way up");

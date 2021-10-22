@@ -1,0 +1,26 @@
+{
+  "name": "homework10-employee-tracker",
+  "version": "1.0.0",
+  "description": "Homework#10 - Employee Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bretpeters3n/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bretpeters3n/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/bretpeters3n/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2"
+  }
+}
