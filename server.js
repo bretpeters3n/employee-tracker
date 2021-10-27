@@ -27,7 +27,7 @@ const db = mysql.createConnection(
     // MySQL username,
     user: "root",
     // MySQL password
-    password: "Southpark1!",
+    password: "",
     database: "empTrack_db",
   },
   console.log(`Connected to the empTrack_db database.`)
